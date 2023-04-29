@@ -15,8 +15,6 @@ namespace wpmb_autoloader;
 
 defined( 'ABSPATH' ) || exit;
 
-use \wpmb\utilities\Utilities;
-
 /**
  * Autoload classes
  *
